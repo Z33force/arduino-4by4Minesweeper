@@ -1,6 +1,6 @@
 /* @4 by 4 minesweeper on keypad
 || @version 1.0
-|| @author Luuk Schuttevaer
+|| @author Luuk
 ||
 || @description
 || | simple minesweeper with buzzer connection to make it playable for the blind.
